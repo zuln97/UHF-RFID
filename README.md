@@ -7,4 +7,4 @@ Soure: http://programmerblog.net/nodejs-mongodb-rest-api/"
 	- GET method: http://localhost:3000/tags => see documnets in tags collection
 				  http://localhost:3000/logs => see documnets in logs collection
 
-	- POST method: Click on Body. There are multiple options, click on x-www-form-urlencoded. You can enter data as Key, Value pairs. Key contains column name and value contains value for columns in collection.
+	- POST method: Click on Body. There are multiple options, click on x-www-form-urlencoded. You can enter data as Key, Value pairs. Key contains column name and value contains value for columns in collection.# UHF-RFID
