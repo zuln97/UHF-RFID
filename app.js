@@ -2,7 +2,7 @@ var express = require('express'), //Import the express module
 
   app = express(),
 
-  port = process.env.PORT || 3000,
+  port = process.env.PORT || 8000,
 
   mongoose = require('mongoose'), //Import the mongoose module
 
